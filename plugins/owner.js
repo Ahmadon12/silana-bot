@@ -1,16 +1,16 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn }) => {
   let caption = `
-*「 معلومات عن صاحب البوت 」*
+> *مول البوت هو ساسكي للتقنية أتمنى لك التوفيق*
 
-*Number :*\nwa.me/212717457920
-*instagram:*\ninstagram.com/noureddine_ouafy
+*Number :*\nwa.me/212710725533
+*instagram:*\ninstagram.com/sasuke_tech
 
-*youtube:*\nyoutube.com/@noureddineouafy2
+*youtube:*\nyoutube.com/sasuke_tech
 
 *facebook page:*\nwww.facebook.com/profile.php?id=100063533185520
 
-*script bot :* github.com/noureddineouafy
+*script bot :* github.com/sasuke_tech133
 
 `.trim()
   m.reply(caption)
