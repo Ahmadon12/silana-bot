@@ -48,7 +48,7 @@ global.url = {
 global.url = {
  sig: 'https://instagram.com/sasuke_tech',
  sgh:  'https://github.com/sasuke_tech',
- sgc: '🔥'
+ sgc: 'https://chat.whatsapp.com/H7iwUtSGtFZI8q0Xf4tbpz'
 }
 
 global.wait =` انتظر .. أنا أحاول تلبية طلبك ...`
